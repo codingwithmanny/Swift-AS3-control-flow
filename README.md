@@ -1,9 +1,16 @@
 # Swift Assignment 3 - Control Flow
 
+ Assignment 3
+ 
  Create a for loop which print numbers from 1 to 100
- if a number is divisible by 3 output "Fizz" instead of the number
- if a number is divisible by 5 output "Buzz" instead of the number
- if a number is divisible by 3 and 5 output "FizzBuzz" instead of the number
+ if a number is divisible by 3 print "Fizz" instead of the number
+ if a number is divisible by 5 print "Buzz" instead of the number
+ if a number is divisible by 3 and 5 print "FizzBuzz" instead of the number
+ 
+ BONUS
+ 
+ Output "Prime" if the number is a prime number
+
 
 ## Requirements
 
